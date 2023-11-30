@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@200&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Bentham&display=swap');
 
 
 
@@ -29,28 +29,64 @@
 .casa{
     padding-left: 20px;
     padding-top: 90px;
+    font-family: 'Bentham', serif;
+    color: black;
+    text-decoration:none;
 }
 .trite{
     padding-left: 50px;
     padding-top: 90px;
-
+    font-family: 'Bentham', serif;
+    text-decoration: none;
+    color: black;
 }
 .medo{
     padding-left: 50px;
     padding-top: 90px;
-
+    font-family: 'Bentham', serif;
+    text-decoration: none;
+    color: black;
 }
 .psico{
     padding-left: 50px;
     padding-top: 90px;
-
+    font-family: 'Bentham', serif;
+    text-decoration: none;
+    color: black;
 }
 .noix{
     padding-left: 50px;
     padding-top: 90px;
-
+    font-family: 'Bentham', serif;
+    text-decoration: none;
+    color: black;
 }
 .m{
     width: 913px;
     height: 647px;
+}
+.e{
+    padding-left: 400px;
+    padding-top: 50px;
+    font-family: 'Bentham', serif;
+}
+.o{
+    padding-left: 300px;
+    padding-top:20px ;
+    font-family: 'bentham', serif;
+}
+.q{
+    padding-left: 150px;
+    padding-top:20px ;
+    font-family: 'bentham', serif;
+    font-size: 20px;
+}
+.r{
+    padding-left: 100px;
+    font-family: 'bentham', serif;
+
+}
+.t{
+    padding-left: 100px;
+    font-family: 'bentham', serif;
 }
